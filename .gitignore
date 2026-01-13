@@ -1,0 +1,28 @@
+# .gitignore for R Project
+
+# R session data
+.RData
+.Rhistory
+.RDataTmp
+
+# R environment
+.Rproj.user/
+.Renviron
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
